@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\layout\\popup_goods_details.xml",
+        "source": "F:\\aswork\\filter\\res\\layout\\popup_goods_details.xml"
+    },
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\aswork\\filter\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
+        "source": "F:\\aswork\\filter\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\layout\\item_goods_attrs.xml",
+        "source": "F:\\aswork\\filter\\res\\layout\\item_goods_attrs.xml"
+    },
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\layout\\item_goods_attr_list.xml",
+        "source": "F:\\aswork\\filter\\res\\layout\\item_goods_attr_list.xml"
+    },
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "F:\\aswork\\filter\\res\\layout\\item.xml"
+    }
+]

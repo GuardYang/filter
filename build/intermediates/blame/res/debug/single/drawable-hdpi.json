@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\aswork\\filter\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sort_common_up.png",
+        "source": "F:\\aswork\\filter\\res\\drawable-hdpi\\sort_common_up.png"
+    },
+    {
+        "merged": "F:\\aswork\\filter\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sort_common_down.png",
+        "source": "F:\\aswork\\filter\\res\\drawable-hdpi\\sort_common_down.png"
+    }
+]

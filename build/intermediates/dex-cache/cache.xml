@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\commons-beanutils-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9892f09f79bda2d23afd570d7e2e97472441054f">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\commons-beanutils-1.7.0_0c9a9fbcd6369f929cb83b531c26de0aeb9b71eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\commons-logging-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba24d5de831911b684c92cd289ed5ff826271824">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\commons-logging-1.1_fe6cd68d14b938d8d344f5b6102c97f147b44a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\json-lib-2.2.2-jdk15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="564983fce666c9b3878b90ba753b62a4eca0791c">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\json-lib-2.2.2-jdk15_f1d31fecec5d09926c875ca5f78406028e1df50b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\commons-collections-3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f951934aa5ae5a88d7e6dfaa6d32307d834a88be">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\commons-collections-3.2_df661f0d8ae9819095f0fb852a708c33477cb9c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\android-support-v4_8126ec6100c2e7fa533e2846361120eb30e00e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\core_2c250ffa4d0be8c5261e435e71667ebb8ddbece1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\ezmorph-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08b14a449891bac8236a5630b524234a830ac825">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\ezmorph-1.0.4_e57f9facf1ef75fd1bb6369cdd704468ed0c4c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\aswork\filter\libs\commons-lang-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16313e02a793435009f1e458fa4af5d879f6fb11">
+        <dex dex="F:\aswork\filter\build\intermediates\pre-dexed\debug\commons-lang-2.4_2f66bba8ecfe5a5a9e04b1b51479bb5065a80aca.jar" />
+    </item>
+
+</items>
